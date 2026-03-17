@@ -7,6 +7,4 @@ A comprehensive collection of SQL scripts for data exploration, analytics, and r
 
 ## 🛡️ License
 
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
-
 This project based on course **SQL Full Course for Beginners (30 Hours) – From Zero to Hero** from **Baraa Khatib Salkini**  [@DataWithBaraa](https://github.com/DataWithBaraa)
